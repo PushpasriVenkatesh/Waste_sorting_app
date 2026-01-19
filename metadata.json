@@ -1,0 +1,5 @@
+{
+  "name": "Smart Waste Sorter",
+  "description": "An offline-first, vision-free waste segregation assistant that uses logic-based questioning to help users categorize waste into Wet, Dry, E-Waste, Hazardous, and Sanitary bins.",
+  "requestFramePermissions": []
+}
